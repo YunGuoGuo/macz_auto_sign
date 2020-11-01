@@ -1,0 +1,11 @@
+{
+  "URL": "https://www.macz.com/",
+  "maczAccountFile": "./data/account.json",
+  "chaojiyingAccountFile": "./data/chaojiying_account.json",
+  "ScreenOffset": 2,
+  "SliderBarOffset": 50,
+  "chromeOptions": {
+    "headless": "false",
+    "incognito": "true"
+  }
+}
